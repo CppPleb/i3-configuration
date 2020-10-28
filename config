@@ -232,7 +232,7 @@ bindsym $mod+Control+minus exec amixer sset Master toggle
 bindsym XF86AudioMute exec amixer sset Master toggle
 
 #Locks the screen
-bindsym $mod+period exec i3lock -i /home/josh/Pictures/background.png
+bindsym $mod+period exec i3lock -i /lockscreen.png
 bindsym $mod+Shift+Escape exec i3lock
 bindsym $mod+backspace exec i3lock
 

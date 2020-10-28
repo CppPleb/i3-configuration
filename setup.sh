@@ -30,3 +30,8 @@ sudo apt install xfce4-terminal
 sudo apt install feh
 sudo apt install alsa-utils
 sudo apt install compton
+
+sudo mv desktop.jpg /
+sudo mv lockscreen.png /
+sudo rm ~.config/i3/config
+sudo mv config ~.config/i3/config

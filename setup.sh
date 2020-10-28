@@ -35,3 +35,4 @@ sudo mv desktop.jpg /
 sudo mv lockscreen.png /
 sudo rm ~.config/i3/config
 sudo mv config ~.config/i3/config
+sudo mv compton.conf ~/.config
